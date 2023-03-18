@@ -1,2 +1,2 @@
 # soulcode
-projetos feitos no curso da soulcode
+Colab feito nas aulas de PYTHON
